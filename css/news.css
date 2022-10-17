@@ -27,3 +27,16 @@ p{
     height: 100vh;
     width: 100vw;
 }
+
+.news_section{
+    margin-top: 84px;
+}
+
+.rounded-chip{
+    border-radius: 12px;
+}
+
+.category-card{
+    cursor: pointer;
+    border-radius: 8px;
+}
